@@ -229,7 +229,7 @@ h6 {
 --------------------------------------------------------------*/
 .header {
   color: var(--default-color);
-  background-color: #145380;
+  background-color: #f6fcff;
   padding: 20px 0;
   transition: all 0.5s;
   z-index: 997;
@@ -241,7 +241,7 @@ h6 {
 }
 
 .header .logo img {
-  max-height: 80px; /* antigo: 36px */
+  max-height: 40px; /* antigo: 36px */
 }
 
 .header .logo h1 {
@@ -312,7 +312,7 @@ h6 {
 
   .navmenu a,
   .navmenu a:focus {
-    color: #0dcaf0;
+    color: #2487ce;
     padding: 18px 15px;
     font-size: 16px;
     font-family: var(--nav-font);
@@ -340,7 +340,7 @@ h6 {
   .navmenu li:hover>a,
   .navmenu .active,
   .navmenu .active:focus {
-    color: #fff;
+    color: #124265;
   }
 
   .navmenu .dropdown ul {
